@@ -1,0 +1,51 @@
+.DS_Store         
+# macOS 系统生成的文件
+Thumbs.db         
+# Windows 系统生成的文件
+node_modules/     
+# Node.js 的依赖库
+build/            
+# 构建生成的输出文件夹
+dist/             
+# 打包后的分发文件夹
+*.class           
+# Java 编译后的类文件
+.vscode/          
+# Visual Studio Code 的配置文件夹
+.idea/            
+# IntelliJ IDEA 的配置文件夹
+*.swp             
+# Vim 编辑器的临时文件
+config.ini        
+# 配置文件
+secrets.txt       
+# 机密信息文件
+logs/             
+# 日志文件夹
+*.log             
+# 特定的日志文件
+
+
+
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run

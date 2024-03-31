@@ -1,0 +1,1 @@
+type TaskFunc = () => Promise<void>;
